@@ -1,1 +1,3 @@
 adk/
+# Ignore only files literally named ".env" everywhere
+.env
